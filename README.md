@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+This is the link after deployment and the firebase link.
+https://smart-class-app48.web.app
+https://console.firebase.google.com/project/smart-class-app48/overview
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -72,4 +76,5 @@ firebase deploy
 ## Author
 
 Student Flutter MVP Project
+
 
